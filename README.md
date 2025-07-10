@@ -3,23 +3,55 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 장선희입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터를 통해 더 넓은 세상을 보고, </li>더 밝은 세상을 만드는 데이터 분석가를 꿈꿉니다 </div> 
+    <h3 </li>  데이터를 통해 더 넓은 세상을 보고, 더 밝은 세상을 만드는 데이터 분석가를 꿈꿉니다 :) </h3>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ What I've Used </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://sunnydadiary.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://sunnydadiary.tistory.com/"> </a>
-         <a href=mailto:poohit703@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:poohit703@naver.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Skills </h2> <br> 
+
+<!-- 1. Data Collection & Cleansing -->
+<h4>📌 Data Collection & Cleansing:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/KoNLPy-FF5757?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+</div><br/>
+
+<!-- 2. DA & Visualization -->
+<h4>📌 DA & Visualization:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+</div>
+<p align="left"><i>Used: EDA, Visualization, Dimension Reduction (PCA), Clustering</i></p><br/>
+
+<!-- 3. ML & DL -->
+<h4>📌 ML & DL:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prophet-0A0A0A?style=flat&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+</div>
+<p align="left"><i>Used: Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, KNN, K-Means, DBSCAN, Ensemble (Voting, Boosting), ANN, CNN</i></p><br/>
+
+<!-- 4. Cooperation Tools -->
+<h4>📌 Cooperation Tools:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+</div><br/>
+
+<!-- 5. Data App & Deployment -->
+<h4>📦 Data App & Deployment:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+</div><br/>
+</div>
