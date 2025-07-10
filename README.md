@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터를 통해 더 넓은 세상을 보고, </li>더 밝은 세상을 만드는 데이터 분석가를 꿈꿉니다 </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ What I've Used </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
