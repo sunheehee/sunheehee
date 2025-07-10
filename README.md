@@ -1,10 +1,19 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb2323,100:f6f93e&height=180&text=Hope%20you%20have%20sunny%20days!🌞&animation=&fontColor=000000&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 장선희입니다. </h2>  
-    <h3 </li>  데이터를 통해 더 넓은 세상을 보고, 더 밝은 세상을 만드는 데이터 분석가를 꿈꿉니다 :) </h3>
-    </div><br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb2323,100:f6f93e&height=180&text=Hope%20you%20have%20sunny%20days!🌞&fontColor=000000&fontSize=50&desc=&descAlign=50,0&textAlign=50,20" />
+</div>
+
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+    안녕하세요, 장선희입니다 :)
+  </h2>  
+
+  <h3 style="font-weight: 700; font-size: 18px; color: #282d33;">
+    데이터를 통해 더 넓은 세상을 보고,<br/>
+    <span style="border-bottom: 2px solid #f6b93b;">더 밝은 세상을 만들기 위해 분석과 해석으로 가치를 전하는</span> 데이터 분석가입니다.
+  </h3>
+</div><br/>
+
+
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Skills </h2>
 
