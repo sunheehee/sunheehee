@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb2323,100:f6f93e&height=180&text=Hope%20you%20have%20sunny%20days!🌞&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 장선희입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 데이터를 통해 더 넓은 세상을 보고, 더 밝은 세상을 만드는 데이터분석가를 꿈구는 장선희입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터를 통해 더 넓은 세상을 보고, </li>더 밝은 세상을 만드는 데이터 분석가를 꿈꿉니다 </div> 
     </div>
     <div style="text-align: left;">
