@@ -9,7 +9,7 @@
 
   <h3 style="font-weight: 700; font-size: 18px; color: #282d33;">
     데이터를 통해 더 넓은 세상을 보고,<br/>
-    <span style="border-bottom: 2px solid #f6b93b;">더 밝은 세상을 만들기 위해 분석과 해석으로 가치를 전하는</span> 데이터 분석가입니다.
+    <span style="border-bottom: 2px solid #f6b93b;">더 나은 일상을 만들기 위해 분석과 해석으로 가치를 전하는</span> 데이터 분석가입니다.
   </h3>
 </div><br/>
 
